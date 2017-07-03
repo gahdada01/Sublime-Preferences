@@ -1,4 +1,4 @@
-```
+```ruby
 {
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"font_face": "MONACO",
